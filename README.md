@@ -79,15 +79,6 @@ Professional WhatsApp Automation Bot with Multi Pairing Servers and Easy Deploym
 <a href="https://pair3.cypherxbot.space/scan">
 <img src="https://img.shields.io/badge/SCAN%203-ffb300?style=for-the-badge&logo=qrcode"/>
 </a>
-
-<a href="https://pair4.cypherxbot.space/scan">
-<img src="https://img.shields.io/badge/SCAN%204-00d4ff?style=for-the-badge&logo=qrcode"/>
-</a>
-
-<a href="https://pair5.cypherxbot.space/scan">
-<img src="https://img.shields.io/badge/SCAN%205-00ff88?style=for-the-badge&logo=qrcode"/>
-</a>
-
 </p>
 
 ---
